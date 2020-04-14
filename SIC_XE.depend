@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577323803 source:e:\projects\sic_xe\main.cpp
+	<bits/stdc++.h>
+	<Windows.h>
+	<conio.h>
+
